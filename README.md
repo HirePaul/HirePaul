@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Paul!
 
-<!--
-**HirePaul/HirePaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an adaptable software developer with a strong foundation in computer science and a focus on building real-world applications. I enjoy solving problems, learning new tech stacks, and making useful software.
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Write clean, efficient, and testable code
+- 🛠️ Work with data pipelines and APIs
+- 🌐 Build responsive and accessible websites
+- 🔍 Optimize performance, usability, and most importantly, scalability (code should be scalable!)
+
+## 🚀 Projects
+
+Here are a few highlights:
+- 🔧 **Inventory Manager** – simplified system with QR code scanning and category logic (Frontend + Backend)
+- 📊 **Data Dashboard** – real-time analytics using Python, Pandas, and Plotly
+- 🧠 **ML Mini-Projects** – Kaggle and personal experiments using scikit-learn and TensorFlow
+
+See my personal website for all my projects: https://pdmakarev.com
+
+## 📚 Skills & Tools
+
+| Languages       | Frameworks & Tools               | Other             |
+|-----------------|----------------------------------|--------------------|
+| Python, JavaScript, SQL | React, Node.js, Express, Flask | Git, Docker, Linux |
+| Bash, C++, HTML/CSS     | MongoDB, PostgreSQL, Firebase  | REST APIs, CI/CD   |
+
+## 📫 Contact Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/paul-makarevich)
+- 📧 [Email](mailto:pdmakarev@gmail.com)
+- 🌐 [Portfolio](https://pdmakarev.com))
+
+---
+
+*Always learning, always building.*
