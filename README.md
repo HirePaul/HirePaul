@@ -18,12 +18,9 @@ Here are a few highlights:
 
 See my personal website for all my projects: https://pdmakarev.com
 
-## 📚 Skills & Tools
+## 📚 Languages
 
-| Languages       | Frameworks & Tools               | Other             |
-|-----------------|----------------------------------|--------------------|
-| Python, JavaScript, SQL | React, Node.js, Express, Flask | Git, Docker, Linux |
-| Bash, C++, HTML/CSS     | MongoDB, PostgreSQL, Firebase  | REST APIs, CI/CD   |
+Python, SQL, C, Java, Rust, JavaScript, R, MATLAB, and Linux Bash
 
 ## 📫 Contact Me
 
