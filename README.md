@@ -12,7 +12,7 @@ I'm an adaptable software developer with a strong foundation in computer science
 ## 🚀 Projects
 
 Here are a few highlights:
-- 🔧 **Inventory Manager** – simplified system with QR code scanning and category logic (Frontend + Backend)
+- 🔧 **Frontend and Backend for Website** – built a website for Carpet Outlet (currently hosted at carpetoutlet.webflow.io)
 - 📊 **Data Dashboard** – real-time analytics using Python, Pandas, and Plotly
 - 🧠 **ML Mini-Projects** – Kaggle and personal experiments using scikit-learn and TensorFlow
 
