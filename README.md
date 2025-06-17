@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul!
 
-I'm an adaptable software developer with a strong foundation in computer science and a focus on building real-world applications. I enjoy solving problems, learning new tech stacks, and making useful software.
+I'm an adaptable software developer with a strong foundation in computer science and a focus on building real-world applications. I enjoy solving problems, learning new tech stacks, and making interconnected systems.
 
 ## 🛠️ What I Do
 
