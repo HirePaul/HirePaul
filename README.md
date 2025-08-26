@@ -12,7 +12,7 @@ I'm an adaptable software developer with a strong foundation in computer science
 ## 🚀 Projects
 
 Here are a few highlights:
-- 🔧 **Frontend and Backend for Website** – built a website for Carpet Outlet (currently hosted at carpetoutlet.webflow.io)
+- 🔧 **Frontend and Backend for Website** – built a website for Carpet Outlet [https://www.carpetoutletbaltimore.com](https://www.carpetoutletbaltimore.com)
 - 📊 **Data Dashboard** – real-time analytics using Python, Pandas, and Plotly
 - 🧠 **ML Mini-Projects** – Kaggle and personal experiments using scikit-learn and TensorFlow
 
@@ -26,7 +26,6 @@ Python, SQL, C, Java, Rust, JavaScript, R, MATLAB, and Linux Bash
 
 - 🔗 [LinkedIn](https://linkedin.com/in/paul-makarevich)
 - 📧 [Email](mailto:pdmakarev@gmail.com)
-- 🌐 [Portfolio](https://pdmakarev.com))
 
 ---
 
