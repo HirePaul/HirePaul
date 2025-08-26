@@ -9,7 +9,7 @@ I'm an adaptable software developer with a strong foundation in computer science
 - 🌐 Build responsive and accessible websites
 - 🔍 Optimize performance, usability, and most importantly, scalability (code should be scalable!)
 
-## 🚀 Projects
+## 🚀 Projects Snapshot (more detail below)
 
 Here are a few highlights:
 - 🔧 **Frontend and Backend for Website** – built a website for Carpet Outlet [https://www.carpetoutletbaltimore.com](https://www.carpetoutletbaltimore.com)
@@ -24,6 +24,11 @@ Python, SQL, C, Java, Rust, JavaScript, R, MATLAB, and Linux Bash
 
 - 🔗 [LinkedIn](https://linkedin.com/in/paul-makarevich)
 - 📧 [Email](mailto:pdmakarev@gmail.com)
+
+## 🚀 Detailed Project Links
+[Crime and Real Estate Final Project](https://hirepaul.github.io)
+
+
 
 ---
 
