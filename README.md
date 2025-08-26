@@ -16,8 +16,6 @@ Here are a few highlights:
 - 📊 **Data Dashboard** – real-time analytics using Python, Pandas, and Plotly
 - 🧠 **ML Mini-Projects** – Kaggle and personal experiments using scikit-learn and TensorFlow
 
-See my personal website for all my projects: https://pdmakarev.com
-
 ## 📚 Languages
 
 Python, SQL, C, Java, Rust, JavaScript, R, MATLAB, and Linux Bash
